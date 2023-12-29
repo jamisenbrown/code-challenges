@@ -1,6 +1,6 @@
 # test_problem_spec.rb
 
-require_relative 'problem'  # Assuming your problem.rb file is in the same directory
+require_relative 'problem'
 
 RSpec.describe 'two_sum' do
     it 'handles example 1' do
