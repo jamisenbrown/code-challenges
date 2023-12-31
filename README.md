@@ -1,2 +1,2 @@
 # code-challenges
-Just practicing coding through code challenges
+Familiarizing myself with coding languages through code challenges.
