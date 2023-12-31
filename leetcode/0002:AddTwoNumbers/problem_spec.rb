@@ -1,4 +1,4 @@
-# test_problem_spec.rb
+# problem_spec.rb
 
 require_relative 'problem'
 
